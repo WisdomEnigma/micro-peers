@@ -1,0 +1,7 @@
+{
+    "service": {
+        "name": "grpc-cli",
+        "tags": ["grpc-go"],
+        "port": 9001 
+    }
+}
