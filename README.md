@@ -16,14 +16,14 @@ These services communicate with each other and also discover other services. In 
 
 # How to run app
 
-   - :eye forking the project
-   - :screen Another terminal Ctrl+T and type cd client/ && go run main.go 
-   - :computer Open terminal Ctrl+T and run go run main.go
+   - 👀 forking the project
+   - 👽 Another terminal Ctrl+T and type cd client/ && go run main.go 
+   - 💻 Open terminal Ctrl+T and run go run main.go
 
 
 # RUN CONSUL :
 
-   - :eye fork the project and type ctrl+ t ; then cd consul
-   - :computer consul agent -dev -config-dir=./web.json -node=machine
+   - 👀 fork the project and type ctrl+ t ; then cd consul
+   - 😘 consul agent -dev -config-dir=./web.json -node=machine
 
     check on 127.0.0.1:85000
