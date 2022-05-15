@@ -26,4 +26,4 @@ These services communicate with each other and also discover other services. In 
    - 👀 fork the project and type ctrl+ t ; then cd consul
    - 😘 consul agent -dev -config-dir=./web.json -node=machine
 
-    check on 127.0.0.1:85000
+    check on 127.0.0.1:8500
